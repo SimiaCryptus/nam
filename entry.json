@@ -1,12 +1,25 @@
 {
-  "id": "nam",
-  "title": "NAM — Numbers as Machines",
-  "category": "essay",
-  "href": "index.html",
-  "readme": "README.md",
-  "order": 4,
-  "section": "essays",
-  "icon": "NAM",
-  "subtitle": "Trilogy III · the executable substrate",
-  "pitch": "A generator-based numerics library where every number is a forkable, deterministic nano-VM emitting an infinite digit stream. RCC's cost classes resurface here as generator state-dimension tiers, with a two-tier ABI, base-as-codec, BBP-as-resonance, and an honest interval account of equality. <em>Where RCC measures and PI_RCC engineers, NAM builds the machine that runs them all.</em>"
+    "id": "nam",
+    "title": "NAM — Numbers as Machines",
+    "description": "Trilogy III · the executable substrate. A generator-based numerics library where every number is a forkable, deterministic nano-VM emitting an infinite digit stream: a two-tier ABI, signed-digit arithmetic, base-as-codec, p-adics as periodic automata, BBP skip-ahead, and an interval-honest account of equality.",
+    "tags": [
+        "numerics",
+        "exact-real-arithmetic",
+        "coinduction",
+        "final-coalgebra",
+        "signed-digit",
+        "p-adic",
+        "BBP",
+        "generator-complexity",
+        "LLVM",
+        "undecidability"
+    ],
+    "category": "essay",
+    "href": "index.html",
+    "readme": "README.md",
+    "order": 4,
+    "section": "essays",
+    "icon": "NAM",
+    "subtitle": "Trilogy III · the executable substrate",
+    "pitch": "A generator-based numerics library where every number is a forkable, deterministic nano-VM emitting an infinite digit stream. RCC's cost classes resurface here as generator state-dimension tiers, with a two-tier ABI, base-as-codec, BBP-as-resonance, and an honest interval account of equality. <em>Where RCC measures and PI_RCC engineers, NAM builds the machine that runs them all.</em>"
 }
